@@ -40,6 +40,7 @@
 - [Code2forever](https://github.com/code2forever)
 - [Rusiru Anupama](https://github.com/rus1ru)
 - [Vong Visalsambath](https://github.com/vongvisalsambath)
+- [hari]
 - [Kumar Raj Gupta]
 - [liang qiao](https://github.com/qiaolian9)
 - [Ayush Sharma](https://github.com/ayushsharma08)
